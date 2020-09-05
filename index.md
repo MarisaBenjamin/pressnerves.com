@@ -1,12 +1,12 @@
 ## Welcome to Pressnerves.com
 
-You can use the [editor on GitHub](https://github.com/MarisaBenjamin/pressnerves.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is where we share the stories we otherwise can't tell.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All stories are presented anonymously by default. We don't need to know who wrote them in order to know that these are worth reading.
 
-### Markdown
+### Get involved
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Start by reading and thinking about these stories. If there's something you'd like to share, submit it through this google form. Your identity will be protected, unless you choose to reveal it.
 
 ```markdown
 Syntax highlighted code block
